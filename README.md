@@ -65,7 +65,7 @@ ___
 **Start Command**  
    Navigate to the folder where your bot files are located:
    ```bash
-   node Sahu.js
+   node Nirob.js
 ```
 
 
